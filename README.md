@@ -1,6 +1,12 @@
 # Python-Loop-Replacement-with-NumPy-and-PyTorch
 Python Loop Replacement with NumPy and PyTorch - Fancy Slicing, UFuncs and equivalent, Aggregations, Sorting and more...
 
+# Archived
+
+This repo will no longer be maintained as of Oct 1, 2024 and I will archive it on Github.
+
+Feel free to use the code for you experimentation but no further development is expected
+
 # Intel Developer Cloud
 
 - Register and login for free access to Cloud.Intel.com
